@@ -1,16 +1,13 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**diandrair/diandrair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a QA engineer.
 
-Here are some ideas to get you started:
+I chose QA because I like to dig into something, look for errors especially those that BA and developers could have missed.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Roles and Responsibilities:  
+- Identify Test cases for Automation.
+- Developing methods for repeating steps.
+- Writing scripts, executing test cases and debugging.
+- Prepare automation scripts in Selenium WebDriver.
+- Regression Testing, support and reviewing Test scripts.
+- Data driven Test script.
